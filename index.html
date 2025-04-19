@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>DRIPPA STEALTHSHIELD v4</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>DRIPPA STEALTHSHIELD v4</h1>
+        <h2>NINJA RED EDITION</h2>
+        <img src="resources/ninja.png" alt="ninja" class="ninja">
+
+        <div class="status-box">
+            <p>FPS BOOST ACTIVE</p>
+            <p>CPU: <span id="cpu">0%</span> | RAM: <span id="ram">0%</span></p>
+        </div>
+
+        <div class="button-grid">
+            <button onclick="toggleTelemetry()">TELEMETRI BLOCK</button>
+            <button onclick="toggleAntivirus()">ANTI-VIRUS SCAN</button>
+            <button onclick="toggleRootkit()">ROOTKIT SCAN</button>
+            <button onclick="toggleSpyware()">KILL SPYWARE</button>
+            <button onclick="toggleFPS()">GAMING MODE</button>
+            <button onclick="saveLog()">SAVE LOG</button>
+            <button onclick="reset()">RESET</button>
+            <button onclick="toggleFullscreen()">FULLSCREEN</button>
+        </div>
+
+        <div class="footer">
+            <p>Skyddad av: NinjaV3</p>
+            <p>Skapad av: Junt aka BIG DRIPPA</p>
+            <p>DISCORD: junt01</p>
+        </div>
+    </div>
+
+    <script src="renderer.js"></script>
+</body>
+</html>
+<p>FPS BOOST ACTIVE</p>
+<p>CPU: <span id="cpu">-</span> | RAM: <span id="ram">-</span></p>
+<button onclick="saveLog()">SAVE LOG</button>
