@@ -1,26 +1,37 @@
-# 🛡️ Drippa StealthShield v4 – Ninja RED Edition
 
-🔥 Det ultimata skyddet för gamers, stealth warriors och anti-spy-ninjas.
+# 🥷 Drippa StealthShield v4 – NINJA RED EDITION
 
-## 🚀 Funktioner
+Ett kraftfullt stealth-verktyg för att:
 
-- 🛑 Telemetri Block
-- 🦠 Anti-Virus Scan
-- 🧠 Rootkit Scan
-- 🎮 Gaming Mode (FPS BOOST)
-- 🕵️ Kill Spyware
-- 💾 Save Logs
-- ♻️ Reset & Fullscreen Toggle
+- 🚫 Blockera Windows-telemetri
+- 🔍 Scanna efter virus och rootkits
+- 🎮 Aktivera gaming mode
+- 💀 Döda spyware och skräp
+- 🌩️ Clean ninja-style GUI
 
 ## 🎨 Design
+🔥 Röd neon ninja-design  
+🗡️ Katana-effekter  
+🖥️ CPU & RAM live-stats  
+🎮 Fullscreen/Window toggle
 
-- Röd ninja-GUI
-- Glow-effekter
-- Realtids CPU/RAM-statistik
-- Skapad av: **Junt aka BIG DRIPPA**
-- Discord: `junt01`
+## 📦 Funktioner
+- Telemetri Block
+- Anti-Virus Scan
+- Rootkit Scan
+- Gaming Mode
+- Kill Spyware
+- FPS Boost Info
+- Save logg till fil
+
+## 🧠 Skapad av
+**👑 Junt aka BIG DRIPPA**  
+Discord: `junt01`
 
 ---
 
-> Skyddad av: **NinjaV3**  
-> ⚔️ Powered by Drippa 🐉
+## 🛠️ Kör lokalt
+
+```bash
+npm install
+npm start
